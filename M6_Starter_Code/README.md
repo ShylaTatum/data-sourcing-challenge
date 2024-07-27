@@ -1,15 +1,15 @@
 # Module 6 Challenge - Retrieving Data from APIs
 
-## NY Times API Retrival
+## NY Times API Retrieval
 
-The first section creates the varables needed to create the url to connect to the NY times. Once the url is created, it 
-is used to connect to the NY Times and retreive the data needed for ananlysis. Then the data is cleaned to a standard format,
+The first section creates the variables needed to create the url to connect to the NY times. Once the url is created, it 
+is used to connect to the NY Times and retrieve the data needed for analysis. Then the data is cleaned to a standard format,
 this will allow it to be combined with other data more easily. The keywords are moved to a list and the titles are then isolated
 which will allow them to match the movie database.
 
-## The Movie Database API
+## The Movie Database API Retrieval
 
-The query is created to retrieve movie data from the API. The title list from the previos section is used to retrieve a movie id,
+The query is created to retrieve movie data from the API. The title list from the previous section is used to retrieve a movie id,
 the movie ID is used to get the needed data from the API. The data is then cleaned to be the same format as the data from the 
 NY Times API. 
 
