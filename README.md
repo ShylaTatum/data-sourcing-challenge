@@ -30,6 +30,8 @@ characters and columns removed. Duplicates are removed. The combined clean data 
 
 -[Drop duplicate rows](https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/)
 
+-[Use Loop to delete characters](https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/#for-loop)
+
 
 
  
